@@ -210,15 +210,24 @@ def generate_data(test_number=0, noise = 0, nsample=50):
         testX = np.vstack((r1t,r2t))
         testY = np.array([0]*r1t.shape[0] + [1]*r2t.shape[0])
 
-        if (noise > 0 and noise <= 1.0):
-            nout =  int(noise * trainX.shape[0])
-            idnoise=np.random.permutation(trainX.shape[0])
-            trainY[idnoise[1:nout]] = 1-trainY[idnoise[1:nout]]
+    if (noise > 0 and noise <= 1.0):
+        nout =  int(noise * trainX.shape[0])
+        idnoise=np.random.permutation(trainX.shape[0])
+        trainY[idnoise[1:nout]] = 1-trainY[idnoise[1:nout]]
     
-    idswitch=np.random.permutation(trainX.shape[0])
+        idswitch=np.random.permutation(trainX.shape[0])
 
-    trainX = trainX[idswitch,:]
-    trainY = trainY[idswitch]
+        trainX = trainX[idswitch,:]
+        trainY = trainY[idswitch]
+
+        nout =  int(noise * testX.shape[0])
+        idnoise=np.random.permutation(testX.shape[0])
+        testY[idnoise[1:nout]] = 1-testY[idnoise[1:nout]]
+    
+        idswitch=np.random.permutation(testX.shape[0])
+
+        testX = testX[idswitch,:]
+        testY = testY[idswitch]
 
     return (trainX, trainY, testX, testY)
 
