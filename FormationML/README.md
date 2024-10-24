@@ -6,7 +6,7 @@
 
 * Arbres, kNN et méthodes ensemblistes [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_tree_kNN_2023_merged.pdf)
 
-* Support Vector Machines [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_tree_kNN_2023_merged.pdf)
+* Support Vector Machines  et regression [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_ml_svm_regression.pdf)
 
 TD sur la classification par modélisation gaussienne et discrimination linéaire
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_gaussien_bayesien.ipynb)
