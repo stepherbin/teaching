@@ -19,7 +19,7 @@ TD sur les kNN, arbres de décision et méthodes ensemblistes
 
 * Auto encodeurs et modèles génératifs [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_autoencoder.pdf)
 
-TD sur apprentissage supervisé et visualisation
+TD sur apprentissage non supervisé et visualisation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_unsupervised.ipynb)
 
 
