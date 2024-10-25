@@ -6,16 +6,12 @@
 
 * Arbres, kNN et méthodes ensemblistes [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_tree_kNN_2023_merged.pdf)
 
-* Support Vector Machines et régression [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_ml_svm_regression.pdf)
-
 TD sur la classification par modélisation gaussienne et discrimination linéaire
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_gaussien_bayesien.ipynb)
 
 TD sur les kNN, arbres de décision et méthodes ensemblistes
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_arbres_knn_new_2023.ipynb)
 
-TD sur SVM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_svm_2023.ipynb)
 
 ## Apprentissage non supervisé
 
@@ -30,7 +26,6 @@ TD sur apprentissage supervisé et visualisation
 ## Elements de théorie de l'apprentissage
 
 * Généralisation et bornes [Planches](https://github.com/stepherbin/teaching/blob/master/FormationML/cours_ML_theory_2023.pdf)
-
 
 TD sur généralisation de la régression polynomiale
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_ml_generalisation.ipynb)
@@ -48,3 +43,8 @@ TD sur réseaux de neurones
 
 TD "deep learning"
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_deep_learning.ipynb)
+
+
+## Corrections des TD
+
+* Me demander le mot de passe pour décrypter les [corrections](https://github.com/stepherbin/teaching/blob/master/FormationML/td_corrections.zip).
