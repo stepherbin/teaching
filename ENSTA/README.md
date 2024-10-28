@@ -15,7 +15,7 @@ TD sur les kNN, arbres de décision et méthodes ensemblistes
 * Régularisation et SVM [Planches](https://github.com/stepherbin/teaching/blob/master/ENSTA/cours_ml_regularisation_svm_2025.pdf)
 
 TD sur les SVM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/FormationML/td_svm_2023.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/ENSTA/td_svm_2023.ipynb)
 
 
 
