@@ -12,13 +12,19 @@ TD sur la classification par modélisation gaussienne et discrimination linéair
 TD sur les kNN, arbres de décision et méthodes ensemblistes
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_arbres_knn_new_2023.ipynb)
 
-3. Théorie du ML 
+3. Théorie du ML ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_ML_theory_2025_169.pdf))
 
 TD sur généralisation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_ml_generalisation.ipynb)
 
-4. Régression et SVM
+
+
+4. Régression et SVM ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_ml_svm_regression_169.pdf))
+
 
 TD sur les SVM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_svm_2023.ipynb)
+
 
 5. Réseaux de neurones
 
