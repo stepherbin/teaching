@@ -9,12 +9,14 @@ Ce site contient les planches et énoncés de TD (notebook jupyter) pour le cour
 |4. Régression et SVM ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_ml_svm_regression_169.pdf))|SVM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_svm_2023.ipynb)|
 |5. Réseaux de neurones ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_reseaux_neurones_2024.pdf))|Réseaux de neurones [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_reseaux_neurones.ipynb)|
 |6. Apprentissage profond ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_deep_learning_2024.pdf))|Deep Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_deep_learning.ipynb)|
-|7. Apprentissage non supervisé|Clustering et visualisation de données|
+|7. Apprentissage non supervisé ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_cours_non_supervise.pdf))|Clustering et visualisation de données [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_unsupervised.ipynb)|
 |8. Apprentissage par renforcement||
 |9. Auto-encodeurs et modèles génératifs||
 |10. Apprentissage par transfert et IA de confiance||
 
 
+## Projets
 
+- Le premier projet porte sur l'[apprentissage incrémental](https://github.com/stepherbin/teaching/blob/master/IOGS/projet/README.md).
 
 
