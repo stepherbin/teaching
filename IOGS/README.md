@@ -10,9 +10,9 @@ Ce site contient les planches et énoncés de TD (notebook jupyter) pour le cour
 |5. Réseaux de neurones ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_reseaux_neurones_2024.pdf))|Réseaux de neurones [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_reseaux_neurones.ipynb)|
 |6. Apprentissage profond ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/cours_deep_learning_2024.pdf))|Deep Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_deep_learning.ipynb)|
 |7. Apprentissage non supervisé ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_cours_non_supervise.pdf))|Clustering et visualisation de données [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/td_unsupervised.ipynb)|
-|8. Apprentissage par renforcement ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_renforcement_2025.pdf))||
-|9. Auto-encodeurs et modèles génératifs||
-|10. Apprentissage par transfert et IA de confiance||
+|8. Auto-encodeurs et modèles génératifs ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_renforcement_2025.pdf))||
+|9. Apprentissage par renforcement ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_autoencoder.pdf))||
+|10. Apprentissage par transfert et IA de confiance ([Planches](https://github.com/stepherbin/teaching/blob/master/IOGS/IOGS_ML_advanced_2025.pdf))||
 
 
 ## Projets
