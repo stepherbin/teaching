@@ -17,6 +17,6 @@ Ce site contient les planches et énoncés de TD (notebook jupyter) pour le cour
 
 ## Projets
 
-- Le premier projet porte sur l'[apprentissage incrémental](https://github.com/stepherbin/teaching/blob/master/IOGS/projet/README.md).
+- Exemple de projet sur l'[apprentissage incrémental](https://github.com/stepherbin/teaching/blob/master/IOGS/projet/README.md).
 
 
