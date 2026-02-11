@@ -47,4 +47,4 @@ A few references to help you find a solution:
 - A simple strategy: Prabhu, A., Torr, P. H., & Dokania, P. K. (2020). Gdumb: A simple approach that questions our progress in continual learning. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part II 16 (pp. 524-540). https://github.com/drimpossible/GDumb
 
 A jupyter notebook to help you start (data loders, basline for class incremental learning): 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/projet/Code_snipets_for_class_incremental_GTSRB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/projet/GTSRB_incremental/Code_snipets_for_class_incremental_GTSRB.ipynb)

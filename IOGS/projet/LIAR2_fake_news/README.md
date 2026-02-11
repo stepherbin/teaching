@@ -19,4 +19,4 @@ Pour manipuler le texte (l'encoder), vous pouvez utiliser des techniques classiq
 La prédiction pourra s'appuyer sur la déclaration brute, ou sur d'autres éléments d'information présents dans la base.
 
 Un notebook jupyter pour vous aider à démarrer est disponible ici: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/projet/LIAR2 Fake News/fake_test.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/IOGS/projet/LIAR2_Fake_News/fake_test.ipynb)
