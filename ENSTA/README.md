@@ -1,7 +1,7 @@
 # Ressources pour le cours de Machine Learning
 
 
-* Introduction [Planches](https://github.com/stepherbin/teaching/blob/master/ENSTA/cours_td/cours_ml_intro_2025.pdf)
+* Introduction [Planches](https://github.com/stepherbin/teaching/blob/master/ENSTA/cours_td/cours_ml_intro_2027.pdf)
 
 TD sur la classification par modélisation gaussienne et discrimination linéaire
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stepherbin/teaching/blob/master/ENSTA/cours_td/td_gaussien_bayesien.ipynb)
